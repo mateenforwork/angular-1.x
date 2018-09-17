@@ -11,3 +11,8 @@ http-server
 source 
 https://stackoverflow.com/questions/16333790/node-js-quick-file-server-static-files-over-http
 
+change port using -p option like below
+
+http-server -p 5632
+
+source: https://www.npmjs.com/package/http-server
